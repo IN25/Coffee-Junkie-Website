@@ -1,0 +1,11 @@
+
+.font{
+    font-size: 20px;
+}
+
+body {
+    background:  url("./images/background.jpeg") center/cover no-repeat fixed; 
+    color: wheat;
+    ;
+
+}
